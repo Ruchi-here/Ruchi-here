@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ruchi Kumari</h1>
 <h3 align="center">Just exploring and having fun in life!</h3>
-
+<p align="left">
+<img src="https://github.com/Ruchi-here/Ruchi-here/assets/122676573/b1dc773d-3d3a-42f8-ab54-8718a4f13e72" alt="Ruchi Kumari" width="400"/>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchi-here&label=Profile%20views&color=0e75b6&style=flat" alt="ruchi-here" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruchi-here" alt="ruchi-here" /></a> </p>
 
-<p align="left">
-<img src="https://github.com/Ruchi-here/Ruchi-here/assets/122676573/b1dc773d-3d3a-42f8-ab54-8718a4f13e72" alt="Ruchi Kumari" width="400"/>
-</p>
+
 
 - 👯 I’m looking to collaborate on **Full stack related projects**
 
