@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ruchi Kumari</h1>
 <h3 align="center">Just exploring and having fun in life!</h3>
-<p align="left">
-  <img src="https://github.com/Ruchi-here/Ruchi-here/assets/122676573/b1dc773d-3d3a-42f8-ab54-8718a4f13e72" alt="Ruchi Kumari" width="200"/>
-</p>
-<p align="left">
+<div align="center">
+  <img src="https://github.com/Ruchi-here/Ruchi-here/assets/122676573/b1dc773d-3d3a-42f8-ab54-8718a4f13e72" alt="Ruchi Kumari" width="400"/>
+</div>
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=ruchi-here&label=Profile%20views&color=0e75b6&style=flat" alt="ruchi-here" />
-</p>
-<p align="left">
+</div>
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ruchi-here" alt="ruchi-here" />
   </a>
-</p>
+</div>
 
 - 👯 I’m looking to collaborate on **Full stack related projects**
 
@@ -18,12 +18,12 @@
 
 - ⚡ Fun fact **I am an Otaku**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<h3 align="center">Connect with me:</h3>
+<div align="center">
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<div align="center">
   <a href="https://appwrite.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/>
   </a>
@@ -90,18 +90,20 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
-</p>
+</div>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruchi-here&show_icons=true&locale=en&layout=compact" alt="ruchi-here" width="400"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ruchi-here&show_icons=true&locale=en" alt="ruchi-here" width="400"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruchi-here&" alt="ruchi-here" width="400"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruchi-here&show_icons=true&locale=en&layout=compact" alt="ruchi-here" width="400"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ruchi-here&show_icons=true&locale=en" alt="ruchi-here" width="400"/>
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruchi-here&" alt="ruchi-here" width="400"/>
+      </td>
+    </tr>
+  </table>
+</div>
