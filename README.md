@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruchi-here" alt="ruchi-here" /></a> </p>
 
+![8e22704712434931a9ee251236e84ac7](https://github.com/Ruchi-here/Ruchi-here/assets/122676573/b1dc773d-3d3a-42f8-ab54-8718a4f13e72)
+
 - 👯 I’m looking to collaborate on **Full stack related projects**
 
 - 📫 How to reach me **ruchi21192@iiitd.ac.in**
