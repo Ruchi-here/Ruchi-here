@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruchi Kumari</h1>
 <h3 align="center">Just exploring and having fun in life!</h3>
 <div align="center">
-  <img src="https://github.com/Ruchi-here/Ruchi-here/assets/122676573/b1dc773d-3d3a-42f8-ab54-8718a4f13e72" alt="Ruchi Kumari" width="300"/>
+  <img src="https://github.com/Ruchi-here/Ruchi-here/assets/122676573/b1dc773d-3d3a-42f8-ab54-8718a4f13e72" alt="Ruchi Kumari" width="250"/>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ruchi-here&label=Profile%20views&color=0e75b6&style=flat" alt="ruchi-here" />
